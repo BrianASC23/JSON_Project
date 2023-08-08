@@ -1,0 +1,60 @@
+.Title{
+    text-align: center;
+    background-color: #282b30;
+    color: #7289da;
+    border: 5px solid #7289da;
+    border-radius: 15px;
+}
+
+.toprow{
+    display: flex;
+    justify-content: space-between;
+}
+#btn{
+    display: flex;
+    justify-self: flex-end;
+}
+
+.middlerow{
+    display: flex;
+}
+
+.NGDL{
+    display:flex;
+    flex-direction: column;
+    line-height: 5;
+}
+
+img{
+    width: 25%;
+    height: 25%;
+    border: 3px solid #282b30;
+    margin: 10px;
+}
+
+.Contact{
+    text-align: center;
+    background-color: #282b30;
+    color: #7289da;
+    border: 5px solid #7289da;
+    border-radius: 15px;
+}
+
+.ContactInfo{
+    line-height: 2;
+}
+
+
+.numberContainer{
+    display:flex;
+    justify-content: center;
+}
+
+.emailContainer{
+    display: flex;
+    justify-content: center;
+}
+
+#PhoneNumber, #Email{
+    margin-left: 5px;
+}
